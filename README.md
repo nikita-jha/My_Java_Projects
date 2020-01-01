@@ -1,2 +1,2 @@
 # My_Java_Projects
-Here are all of my Java logical problem solving projects
+Here are all of my Java logical problem solving projects.
